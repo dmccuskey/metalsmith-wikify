@@ -1,0 +1,6 @@
+{
+  "name": "metalsmith-wikify",
+  "description": "A Metalsmith plugin to create a wiki-site by rewriting directory structure to top-level pages.",
+  "dependencies": {
+  },
+}
